@@ -1,7 +1,7 @@
 Una Prueba a los comandos en git hub
 
 Comandos Utilizados:
--git sdd
+-git add
 -git status
 -git commit [-m]
 -git log
